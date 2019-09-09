@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css","TodoItem.css","User.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CCFA,GACE,eACF,CAEA,SACE,eACF,CCNA,SACE,iBACF","file":"main.98d73a8c.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n","li {\n  text-align: left;\n}\n\n.li-task {\n  font-weight: bold;\n}\n",".li-user {\n  font-style: italic;\n}\n"]}
